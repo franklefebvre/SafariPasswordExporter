@@ -7,7 +7,7 @@ This script uses the accessibility features built into macOS to grab all usernam
 The script is provided in two forms:
 
 - the source code as a text file,
-- a signed and notarized standalone application for ease of use.
+- a signed and notarized standalone [application](https://github.com/franklefebvre/SafariPasswordExporter/raw/master/SafariPasswordExporter.dmg) for ease of use.
 
 ## Usage
 
